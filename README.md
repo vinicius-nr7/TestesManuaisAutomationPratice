@@ -96,5 +96,6 @@ Este projeto demonstra minhas habilidades em:
 
 ## Conclusão
 
-Este projeto reflete uma abordagem profissional de qualidade de software, com foco em testes manuais, rastreio de defeitos e comunicação clara dos resultados. Ele é um ótimo exemplo do tipo de trabalho que pode ser apresentado para recrutadores e equipes de produto.
+Este projeto reflete uma abordagem profissional de qualidade de software, com foco em testes manuais, rastreio de defeitos e comunicação clara dos resultados.
+
 " 
